@@ -209,4 +209,4 @@ NODE_ENV=development
 - **Change logo/name**: Edit `frontend/src/components/Sidebar.jsx` and `Login.jsx`
 - **Swap SQLite → PostgreSQL**: Replace `better-sqlite3` with `pg`, update query syntax
 
-# Belea-POS
+# POS
