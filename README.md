@@ -210,3 +210,4 @@ NODE_ENV=development
 - **Swap SQLite → PostgreSQL**: Replace `better-sqlite3` with `pg`, update query syntax
 
 # POS
+# POS
