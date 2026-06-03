@@ -45,7 +45,7 @@ function Layout({ children }) {
         </button>
         <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
           <span style={{ fontSize: '1.1rem' }}>🛒</span>
-          <span style={{ fontWeight: 700, fontSize: '15px' }}>Zenda POS</span>
+          <span style={{ fontWeight: 700, fontSize: '15px' }}>ZENDA</span>
         </div>
         <div style={{ width: 34, height: 34, borderRadius: '50%', background: 'var(--pos-accent)', display: 'flex', alignItems: 'center', justifyContent: 'center', fontSize: '14px', fontWeight: 700 }}>
           {user?.name?.[0]?.toUpperCase()}

@@ -31,7 +31,7 @@ export default function Sidebar({ open, onClose }) {
           <div style={{ display: 'flex', alignItems: 'center', gap: '10px' }}>
             <span style={{ fontSize: '1.4rem' }}>🛒</span>
             <div>
-              <div style={{ fontWeight: 700, fontSize: '15px' }}>Zenda POS</div>
+              <div style={{ fontWeight: 700, fontSize: '15px' }}>ZENDA</div>
               <div style={{ fontSize: '11px', color: 'var(--pos-muted)' }}>{user?.store_name || 'All Stores'}</div>
             </div>
           </div>
