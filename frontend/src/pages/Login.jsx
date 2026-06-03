@@ -42,7 +42,7 @@ export default function Login() {
         {/* Logo */}
         <div style={{ textAlign: 'center', marginBottom: '2rem' }}>
           <div style={{ fontSize: '3rem', marginBottom: '8px' }}>🛒</div>
-          <h1 style={{ fontSize: '1.75rem', fontWeight: 700, letterSpacing: '-0.02em' }}>POS System</h1>
+          <h1 style={{ fontSize: '1.75rem', fontWeight: 700, letterSpacing: '-0.02em' }}>Zenda POS</h1>
           <p style={{ color: 'var(--pos-muted)', marginTop: '4px', fontSize: '14px' }}>Multi-store Point of Sale</p>
         </div>
 
